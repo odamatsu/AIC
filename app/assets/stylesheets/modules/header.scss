@@ -1,0 +1,15 @@
+.header {
+  height: 50px;
+  background: #221f20;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .search-box-container {
+    .search-box {
+      p {
+        color: white;
+        font-size: 25px;
+      }
+    }
+  }
+}
