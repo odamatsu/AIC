@@ -6,9 +6,10 @@
   align-items: center;
   .search-box-container {
     .search-box {
-      p {
+      a {
         color: white;
         font-size: 25px;
+        text-decoration: none;
       }
     }
   }
